@@ -1,0 +1,7 @@
+streamlit run resume_app.py
+streamlit
+PyPDF2
+pandas
+scikit-learn
+python-pptx
+python-docx
